@@ -1,6 +1,8 @@
 # dragonpie
-Arduino Leonardo Keyboard Emulator for Dragon 32 Keyboard
+Arduino Leonardo Keyboard Emulator for Dragon 32 Keyboard to be used as a RetroPi keyboard
 
 This sketch allows you to use the Dragon 32/64 Keyboard as a USB emulator for a Raspberry Pi build.
 
-The sketch used the Break key to access special characters
+The sketch useds the Break key to access special characters (see keyboard layout image)
+
+Will add more details soon.
