@@ -6,3 +6,5 @@ This sketch allows you to use the Dragon 32/64 Keyboard as a USB emulator for a 
 The sketch useds the Break key to access special characters (see keyboard layout image)
 
 Will add more details soon.
+
+<img src="https://github.com/JeremyBraithwaite/dragonpie/blob/master/keyboard-layout.png?raw=true"></img>
